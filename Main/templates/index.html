@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body>
+
+    <div id="containerbox">
+      <div id="chatbox">
+        <p class="botText"><span>Hi! I'm MedConvoBot.</span></p>
+      </div>
+      <div id="userInput">
+        <input id="textInput" type="text" name="msg" placeholder="Type Your Message Here...">
+        <input id="buttonInput" type="submit" value="Send">
+        <input id="resetInput" type="reset" value="Reset" onClick="window.location.reload()">
+      </div>
+
+      <div id="contextbox">
+
+        <div id="context_title"><p>Current Context</p></div>
+        <div id="context"></div>
+      
+      </div>
+
+      <div id="listboxcontainers">
+
+        <div id="textlisttitle"><p>Available Text Files</p></div>
+
+        <div id="listboxtext">
+          {% for file in text_files_list %}
+              <li class="listitem">{{ file }}</a></li>
+          {% endfor %}       
+        </div>
+
+        <div id="imagelisttitle"><p>Available Image Files</p></div>
+          
+        <div id="listboximage">
+          {% for file in image_files_list %}
+              <li class="listitem">{{ file }}</a></li>
+          {% endfor %}
+        </div>
+      
+      </div>
+
+      <script>
+        function getBotResponse() {
+          var rawText = $("#textInput").val();
+          var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+          $("#textInput").val("");
+          $("#chatbox").append(userHtml);
+          var chatBoxElement = document.getElementById('chatbox');
+          chatBoxElement.scrollTop = chatBoxElement.scrollHeight - chatBoxElement.clientHeight;
+          document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+          $.get("/get", { msg: rawText }).done(function(data) {
+            console.log(data)
+            var parsedData = JSON.parse(data)
+            var botHtml = '<p class="botText"><span>' + parsedData['response'] + '</span></p>';
+            if (parsedData['image_context'] != '') {
+              var contextHtml = '<img src="'+parsedData['image_context']+'" height=450px width=450px style="position: relative;margin: auto auto;">'
+              $("#context").empty()
+              $("#context").append(contextHtml)
+            }
+            else if (parsedData['text_context'] != '') {
+              var contextHtml = '<p style="padding: 20px;">'+parsedData['text_context']+'</p>'
+              $("#context").empty()
+              $("#context").append(contextHtml)
+            }
+            $("#chatbox").append(botHtml);
+            document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+            chatBoxElement.scrollTop = chatBoxElement.scrollHeight - chatBoxElement.clientHeight;
+          });
+        }
+        $("#textInput").keypress(function(e) {
+            if(e.which == 13) {
+                getBotResponse();
+            }
+        });
+        $("#buttonInput").click(function() {
+          getBotResponse();
+        });
+      </script>
+    </div>
+  </body>
+</html>
