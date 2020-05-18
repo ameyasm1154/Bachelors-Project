@@ -1,0 +1,105 @@
+bcr.01.2009.1411.3
+
+severe myositis on commencement of efavirenz , abacavir and lamivudine , in the absence of lactic acidosis or classical abacavir hypersensitivity summary myositis in hiv may be due to hiv itself , or to opportunistic infection , malignancy or drug treatment . severe myositis or rhabdomyolysis have never been reported with the commonly used nucleoside reverse transcriptase inhibitor abacavir , although creatine phosphokinase may rise modestly , particularly if abacavir hypersensitivity occurs . we report an unusual case of abacavir use associated with a thousand-fold rise in creatine phosphokinase in the absence of features of hypersensitivity . the case was also notable firstly in that there was an absence of the hla - b5701 allele , the most common human leucocyte antigen ( hla ) allele associated with hypersensitivity , and , secondly , as the case occurred in an african patient , african people not being prone to abacavir hypersensitivity . background this is the first case of a massive rise in creatinine phosphokinase ( cpk ) after treatment with the commonly used drug for hiv infection , abacavir . hospitalisation resulted . acute renal failure may follow acute rises in cpk , thus rendering the reaction significant . hypersensitivity , which may cause mild rises in cpk , seemed not to be the cause , based on clinical presentation and genetic data , or , if present , was extremely atypical . case presentation an african male in his thirties was diagnosed with asymptomatic hiv in october 2004 . his cd4 count was 69 cells / μl and hiv viral load 53 000 copies / l . prophylactic co-trimoxazole was prescribed . antiretroviral treatment ( art ) was commenced later , in january 2005 , with abacavir 300 mg twice daily , lamivudine 150 mg twice daily and efavirenz 600 mg at night . five weeks into treatment he presented to the outpatient clinic complaining of malaise , nausea , considerable myalgia , irritated skin and impotence . physical examination was normal with , in particular , no fever , rash or oral ulceration . a full blood count , urea and electrolytes , cytomegalovirus ( cmv ) pcr and serum cryptococcal antigen were normal . cd4 count repeated at this time had fallen slightly to 58 cells / μl , while hiv viral load had become fully suppressed . alanine transaminase was initially normal . the cpk , first taken a few days later , was markedly elevated at 36 390 u / l ( normal range : 45 – 195 u / l ) ( fig 1 ) . serum bicarbonate was normal . urine was of normal colour and dipstick testing for haemoglobin was negative . art was immediately stopped . intravenous rehydration with normal saline 3 litres / day resulted in a rapid improvement in the cpk . a transient rise in liver transaminases occurred concurrently with the cpk rise ( fig 2 ) , but the full blood count and urea and electrolytes remained normal . he remained well and was discharged from hospital on day 4 . over a 6 - week period his symptoms and biochemical disturbance resolved . electromyography ( emg ) 4 weeks after stopping art was normal . human leucocyte antigen ( hla ) - b5701 typing , done in december 2005 when first made available , was negative . the patient remained well , without symptoms of myopathy , for 4 years after this episode , but refused further art until 2008 when he accepted a regimen of ritonavir - boosted fosamprenavir , tenofovir and emtricitabine without ill effect . investigations differential diagnosis potential causes of his raised cpk and myalgia , which have been previously reported in this context , are : myositis directly related to hiv infection itself , myositis due to hiv - associated malignancy , infective myositis , lactic acidosis , atypical immune reconstitution reaction , drug - related myositis without hypersensitivity and abacavir hypersensitivity . treatment outcome and follow - up he remained well and was discharged from hospital on day 4 . over a 6 - week period his symptoms and biochemical disturbance resolved . emg 4 weeks after stopping art was normal . the patient has remained well , without symptoms of myopathy , for 4 years after this episode but has refused further art until recently . cd4 count 3 years after this episode was 90 cells / μl , and after 4 months of art 110 cellsμl . discussion the patient we describe here developed severe symptomatic and biochemical myositis , which was temporally associated with commencement of abacavir , lamivudine and efavirenz . the patient had commenced co-trimoxazole 4 months prior to this . the myositis resolved quickly in response to intravenous fluid treatment and stopping art . a cpk at the level described in our patient is indicative of rhabdomyolysis and often leads to renal failure . early intravenous fluid treatment may have aborted progression . potential causes of his raised cpk and myalgia , which have been previously reported in this context , are : myositis directly related to hiv infection2 or associated malignancy , 3 infective myositis , 4 – 7 lactic acidosis , 8 atypical immune reconstitution reaction , drug - related myositis without hypersensitivity9 and abacavir hypersensitivity . 10 considering these , there was no clinical or serological evidence of infection , nor was antimicrobial treatement given . the patient has not subsequently developed malignancy . our patient ’ s normal serum bicarbonate would make lactic acidosis as a cause of his myositis unlikely , although a serum lactate was not performed . there was no cd4 rise by the time of the reaction , making immune reconstitution an unlikely cause . co-trimoxazole has been reported as causing rhabdomyolysis in one case report , 11 but our patient ’ s symptoms and elevated cpk resolved despite its continuation . given the temporal association with commencement of art , it is most likely that our patient ’ s presentation was due to an adverse effect of art . an inflammatory rhabdomyolysis has been reported in association with lamivudine in one patient . 12 inclusion body myositis has also been described with art , though particularly with zidovudine and didanosine13 to our knowledge , efavirenz and abacavir have not been reported to cause myositis in the absence of lactic acidosis and abacavir hypersensitivity , respectively . abacavir hypersensitivity occurs in 7 % of patients , but is more common with once - daily dosing ( 9 % ) , 14 whilst our patient was dosed twice daily . myalgia with cpk rise has been reported in up to 6 % of patients with hypersensitivity , 10 but rises of the magnitude seen in our patient have not been reported . a cpk rise without myalgia has been associated with abacavir in the absence of hypersensitivity . hla - b5701 , the presence of which is known to be associated with an increased risk of hypersensitivity , was not detected in this patient . in summary , significant myositis can occur with the combination of abacavir , lamivudine and efavirenz , and in the absence of lactic acidosis or classical abacavir hypersensitivity . based on the published evidence and due to the occasional reports of mild cpk rises without hypersensitivity . we believe abacavir to have been the most likely cause .
+
+the nucleoside reverse transcriptase inhibitor abacavir , commonly used first line in hiv infection , may cause @placeholder .
+
+myositis
+
+abacavir hypersensitivity:r hypersensitivity
+cytomegalovirus ( cmv ) pcr and serum cryptococcal antigen:alovirus ( cmv ) pcr and serum cryptococcal antigen
+full blood count:ood count
+elevated cpk:d cpk
+malignancy:ncy
+further art: art
+hiv:
+malaise:
+creatine phosphokinase:e phosphokinase
+become fully suppressed:fully suppressed
+transient rise in liver transaminases:nt rise in liver transaminases
+early intravenous fluid treatment:ntravenous fluid treatment
+mild rises in cpk:ses in cpk
+urea:
+absence of the hla - b5701 allele: of the hla - b5701 allele
+symptoms:s
+acute rises in cpk:ises in cpk
+ill effect:ect
+cd4 count:nt
+physical examination:l examination
+hiv viral load:al load
+alanine transaminase: transaminase
+inflammatory rhabdomyolysis:atory rhabdomyolysis
+adverse effect: effect
+hiv infection:ection
+cpk:
+massive rise in creatinine phosphokinase: rise in creatinine phosphokinase
+myalgia:
+atypical immune reconstitution reaction:l immune reconstitution reaction
+intravenous rehydration:nous rehydration
+antimicrobial treatement:robial treatement
+intravenous fluid treatment:nous fluid treatment
+s symptoms:oms
+dipstick testing:k testing
+cd4 rise:e
+abacavir:r
+serum lactate:actate
+severe symptomatic and biochemical myositis:symptomatic and biochemical myositis
+hiv - associated malignancy:ssociated malignancy
+opportunistic infection:nistic infection
+normal saline:saline
+considerable myalgia:rable myalgia
+zidovudine:ine
+infection:on
+thousand-fold rise in creatine phosphokinase:d-fold rise in creatine phosphokinase
+drug - related myositis:related myositis
+myopathy:y
+irritated skin:ed skin
+efavirenz:nz
+rhabdomyolysis:yolysis
+hypersensitivity:nsitivity
+most common human leucocyte antigen ( hla ) allele:mmon human leucocyte antigen ( hla ) allele
+antiretroviral treatment:roviral treatment
+severe myositis:myositis
+acute renal failure:enal failure
+lactic acidosis:acidosis
+hypersensitivity . hla - b5701:nsitivity . hla - b5701
+significant myositis:cant myositis
+mild cpk rises:k rises
+electromyography:myography
+emtricitabine:tabine
+hypersensitivity9:nsitivity9
+hiv infection2:ection2
+infective myositis:ve myositis
+haemoglobin:obin
+commenced co-trimoxazole:ed co-trimoxazole
+associated malignancy:ted malignancy
+prophylactic co-trimoxazole:actic co-trimoxazole
+inclusion body myositis:on body myositis
+myalgia with cpk rise: with cpk rise
+aborted progression: progression
+biochemical disturbance:ical disturbance
+oral ulceration:ceration
+drug:
+treatment:nt
+classical abacavir hypersensitivity:al abacavir hypersensitivity
+drug treatment:eatment
+nucleoside reverse transcriptase inhibitor abacavir:ide reverse transcriptase inhibitor abacavir
+nausea:
+tenofovir:ir
+impotence:ce
+asymptomatic hiv:matic hiv
+art:
+raised cpk:cpk
+ritonavir - boosted fosamprenavir:ir - boosted fosamprenavir
+renal failure:ailure
+markedly elevated:y elevated
+co-trimoxazole:oxazole
+fever:
+human leucocyte antigen ( hla ) - b5701 typing:eucocyte antigen ( hla ) - b5701 typing
+cpk rise:e
+lamivudine:ine
+urea and electrolytes:d electrolytes
+myositis:s
+serum bicarbonate:icarbonate
+rash:
+emg:

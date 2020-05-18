@@ -1,0 +1,80 @@
+bcr.01.2009.1431.9
+
+an unusual differential diagnosis of a left iliac fossa mass summary we present a case of decompensated alcoholic liver cirrhosis with widespread porto - systemic anastamoses that resulted in varices within the rectus muscle . a literature review reveals only two similar cases previously . intramuscular varices may predispose to local haemorrhage , especially in those with underlying coagulopathy as a result of liver cirrhosis . management options include optimising medical management of the underlying condition , simple analgesics , and for those at high risk of bleeding , decompression by transjugular intrahepatic porto - systemic shunting . interim monitoring by ultrasonography is also helpful in detecting rapid increases in vascular size . in our case the patient continued to drink heavily and developed hepatic encephalopathy . her prognosis remains poor and is currently a poor candidate for any surgical intervention . background in the past half century , there has been a fourfold increase in mortality rates due to liver cirrhosis in both men and women in england and wales . 1 this has been largely due to the increases in alcohol consumption , especially in young women . common complications resulting in death among patients with cirrhosis include bleeding from oesophageal varices , spontaneous bacterial peritonitis , and renal failure secondary to hepatorenal syndrome . furthermore , liver cirrhosis is commonly associated with a reduced production of coagulation factors , leading to an increased risk of bleeding . we present a case of decompensated alcoholic liver cirrhosis with an unusual complication . case presentation a 57 - year - old woman with alcohol dependency presented to hospital with a 6 - month history of left iliac fossa pain . she continued to drink heavily despite a diagnosis of alcoholic liver cirrhosis ( child ’ s pugh score b ) . this was diagnosed by liver biopsy 1 year previously . upper gastrointestinal endoscopy at that time confirmed multiple oesophageal varices with moderate portal hypertension . clinical examination revealed a palpable , mobile , tender mass in the left iliac fossa . rigid sigmoidoscopy showed no rectal masses or varices . investigations computed tomography ( ct ) of the abdomen showed hepatosplenomegaly ( fig 1 ) and widespread porto - systemic anastomoses with extensive varices around the falciform ligament , gastrophrenic region and retroperitoneum ( fig 2 ) . in the region of the left rectus sheath there were multiple contrast - enhancing vascular lesions . an abdominal ultrasound ( fig 3 ) confirmed a rectus sheath haematoma with associated intramuscular vascular channels measuring up to 10 – 12 mm in diameter . these vascular channels communicated with porto - systemic anastomoses and there was dilatation of intramuscular vessels within the left rectus abdominus muscle . outcome and follow - up the patient experienced uncontrollable pain from the site of the varices . it was therefore decided to proceed with a transjugular intra-hepatic porto - systemic shunting procedure in an attempt to improve her symptoms . however , the patient continued to drink heavily and was admitted on several occasions with diabetic ketoacidosis and hepatic encephalopathy . she was deemed an unsuitable candidate for further intervention . discussion a literature review revealed only two similar cases of patients with decompensated liver cirrhosis developing spontaneous retroperitoneal haemorrhage with a rectus sheath haematoma evident in one case . in both the patients had evidence of underlying coagulopathy and died of hypovolaemic shock as their haematoma expanded . this was despite fluid resuscitation and infusion of clotting factors . surgical exploration and angiographic embolisation were not successful . autopsy in both cases did not reveal the exact source of bleeding but the authors speculated that the haemorrhage may have originated from porto - systemic varices within the retroperitoneum and abdominal wall . a rectus sheath haematoma is a well described entity caused by damage to the superior or inferior epigastric arteries or their branches , or from a tear of the rectus muscle with shearing of the small vessels . the cause of rupture may be external trauma to the abdominal wall , trauma from surgery or vigorous contractions of the rectus muscle from strenuous exercise . rectus sheath haematomas are usually self - limiting , but may be fatal particularly in the elderly with significant co-morbidities4 or undergoing anticoagulation therapy . intramuscular varices within the rectus muscle predispose to local haemorrhage , which may be catastrophic in the setting of underlying coagulopathy due to liver cirrhosis . abdominal ultrasonography and ct were shown to be effective in the diagnosis of our case and these modalities have also previously been described as useful in the diagnosis of rectus sheath haematomas . 6 the management of intramuscular varices is not well defined but interim monitoring by ultrasonography may help to detect a rapid increase in variceal size that may be associated with an increased risk of bleeding . in high - risk patients it has been suggested that transjugular intrahepatic porto - systemic shunting , as employed in the management of oesophageal varices , may be indicated to decompress intramuscular varices .
+
+correction of coagulopathy is important in patients with @placeholder due to liver cirrhosis .
+
+underlying coagulopathy
+
+surgical exploration:l exploration
+underlying coagulopathy:ing coagulopathy
+computed tomography ( ct ) of the abdomen:d tomography ( ct ) of the abdomen
+moderate portal hypertension:e portal hypertension
+haematoma:ma
+widespread porto - systemic anastomoses:ead porto - systemic anastomoses
+porto - systemic varices within the retroperitoneum and abdominal wall: systemic varices within the retroperitoneum and abdominal wall
+intramuscular varices:scular varices
+upper gastrointestinal endoscopy:astrointestinal endoscopy
+rupture:
+anticoagulation therapy:gulation therapy
+alcohol dependency: dependency
+transjugular intra-hepatic porto - systemic shunting procedure:gular intra-hepatic porto - systemic shunting procedure
+common complications:complications
+further intervention: intervention
+fluid resuscitation:esuscitation
+liver cirrhosis:irrhosis
+hepatosplenomegaly:plenomegaly
+external trauma to the abdominal wall:l trauma to the abdominal wall
+modalities:ies
+underlying condition:ing condition
+extensive varices:ve varices
+surgical intervention:l intervention
+alcoholic liver cirrhosis:ic liver cirrhosis
+rectal masses:masses
+cirrhosis:is
+simple analgesics:analgesics
+hepatorenal syndrome:enal syndrome
+surgery:
+decompensated alcoholic liver cirrhosis:nsated alcoholic liver cirrhosis
+ct:
+symptoms:s
+tender mass in the left iliac fossa:mass in the left iliac fossa
+dilatation of intramuscular vessels:ion of intramuscular vessels
+angiographic embolisation:aphic embolisation
+spontaneous bacterial peritonitis:eous bacterial peritonitis
+multiple oesophageal varices:e oesophageal varices
+unusual complication: complication
+fourfold increase in mortality rates:d increase in mortality rates
+oesophageal varices:geal varices
+diabetic ketoacidosis:c ketoacidosis
+rigid sigmoidoscopy:igmoidoscopy
+hepatic encephalopathy: encephalopathy
+abdominal ultrasound:al ultrasound
+porto - systemic anastomoses: systemic anastomoses
+renal failure:ailure
+clinical examination:l examination
+management:ent
+widespread porto - systemic anastamoses:ead porto - systemic anastamoses
+transjugular intrahepatic porto - systemic shunting:gular intrahepatic porto - systemic shunting
+infusion of clotting factors:n of clotting factors
+decompensated liver cirrhosis developing spontaneous retroperitoneal haemorrhage:nsated liver cirrhosis developing spontaneous retroperitoneal haemorrhage
+varices:
+multiple contrast - enhancing vascular lesions:e contrast - enhancing vascular lesions
+left iliac fossa mass:iac fossa mass
+decompression:ession
+autopsy:
+hypovolaemic shock:aemic shock
+increased risk of bleeding:ed risk of bleeding
+left iliac fossa pain:iac fossa pain
+catastrophic:ophic
+local haemorrhage:aemorrhage
+reduced production of coagulation factors: production of coagulation factors
+abdominal ultrasonography:al ultrasonography
+uncontrollable pain:ollable pain
+liver biopsy:iopsy
+rectus sheath haematoma:sheath haematoma
+rectus sheath haematomas:sheath haematomas
+rapid increase in variceal size:ncrease in variceal size
+damage to the superior or inferior epigastric arteries:to the superior or inferior epigastric arteries
+trauma:
+bleeding:g
